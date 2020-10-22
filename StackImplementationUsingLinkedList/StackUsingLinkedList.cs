@@ -60,6 +60,7 @@ namespace StackUsingLinkedListLive
                 Peek();
                 Pop();
             }
+            // OR return top == null
         }
 
     }
